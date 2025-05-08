@@ -1,6 +1,6 @@
 {
     "name": "lavalite/cms",
-    "description": "Lavalite - The Laravel CMS.",
+    "description": "Lavalite - The Laravel CMS." // Updated: 2025-05-08 10:15:48,
     "keywords": [
         "framework", "laravel", "lavalite", "CMS", "CRM", "ERP"
     ],
