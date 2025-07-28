@@ -58,7 +58,7 @@ LICENSE.txt
 LICENSE_EE*
 RELEASE_NOTES.txt
 .ssh/
-error_log 
+error_log
 # .htpasswds
 # /.htaccess
 php.ini.sample
@@ -112,3 +112,7 @@ package-lock.json
 
 # all lock files
 *.lock
+
+
+
+#powershell -ExecutionPolicy Bypass -File "auto-commit.ps1" -CommitMessage "feat: add new feature"
