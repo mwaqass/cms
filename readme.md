@@ -5,7 +5,7 @@ A comprehensive Content Management System built with **Laravel 10** and **Vue.js
 ![CMS Admin Panel](https://img.shields.io/badge/Laravel-10.x-red?style=for-the-badge&logo=laravel)
 ![Vue.js](https://img.shields.io/badge/Vue.js-3.x-green?style=for-the-badge&logo=vue.js)
 ![PHP](https://img.shields.io/badge/PHP-8.1+-blue?style=for-the-badge&logo=php)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 ## ✨ Features
 
@@ -369,13 +369,3 @@ SESSION_DOMAIN=yourdomain.com
 
 *This CMS provides a solid foundation for building modern web applications with Laravel and Vue.js.*
 
-
-<!-- Last auto-update: 2025-07-28 15:52:19 -->
-
-<!-- Last auto-update: 2025-07-28 15:54:11 -->
-
-<!-- Last auto-update: 2025-07-29 12:41:22 -->
-
-<!-- Last auto-update: 2025-07-30 14:48:03 -->
-
-<!-- Last auto-update: 2025-07-31 14:31:47 -->
